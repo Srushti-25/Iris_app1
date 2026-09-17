@@ -3,7 +3,7 @@ import pandas as pd
 
 
 # Load the trained model
-model = joblib.load('iris_model.pkl')
+# model = joblib.load('iris_model.pkl')
 
 # Set the page title
 st.title("Machine Learning on Iris Data")
