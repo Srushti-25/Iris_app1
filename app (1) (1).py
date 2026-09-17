@@ -1,9 +1,8 @@
 import streamlit as st
-import joblib
+
 import pandas as pd
 
-# Load the trained model
-model = joblib.load('iris_model.pkl')
+
 
 st.title("Machine Learning on Iris Data")
 
