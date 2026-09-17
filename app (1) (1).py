@@ -6,7 +6,7 @@ import pandas as pd
 # model = joblib.load('iris_model.pkl')
 
 # Set the page title
-st.title("Machine Learning on Iris Data")
+st.title("flower nhi fire hai mai")
 
 # Create input fields for the features
 sepal_length = st.number_input("Sepal Length")
